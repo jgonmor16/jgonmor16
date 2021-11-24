@@ -7,12 +7,9 @@
 
 #### Contact Information:
 
-- Email: `jgonmor@gmail.com`
+<img align="left" alt="javgonmor16 | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/gmail.svg" /> `jgonmor@gmail.com`
 
-- LinkedIn: [linkedin]
-
-<img align="left" alt="javgonmor16 | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/gmail.svg" />
-(<img align="left" alt="javgonmor16 | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/linkedin.svg" />)[linkedin]
+[<img align="left" alt="javgonmor16 | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/linkedin.svg" />][LinkedIn] [LinkedIn]
 
 <br />
 
@@ -36,7 +33,7 @@
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/jgonmor16
+[LinkedIn]: https://linkedin.com/in/jgonmor16
 [nvim-treesitter]: https://github.com/nvim-treesitter/nvim-treesitter
 
 
