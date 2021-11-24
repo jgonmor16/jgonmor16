@@ -11,8 +11,8 @@
 
 - LinkedIn: [linkedin]
 
-<img align="left" alt="javgonmor16 | Email" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/gmail.svg" />
-(<img align="left" alt="javgonmor16 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/linkedin.svg" />)[linkedin]
+<img align="left" alt="javgonmor16 | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/gmail.svg" />
+(<img align="left" alt="javgonmor16 | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/linkedin.svg" />)[linkedin]
 
 <br />
 
