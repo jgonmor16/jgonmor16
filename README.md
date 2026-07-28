@@ -1,44 +1,48 @@
 
-## Hi there, I'm Javier 👋
+# Hi there, I'm Javier 👋
 
-### I'm an Industrial Engineer who loves learning new things, programming and developing his ideas
-
-<br />
-
-#### Contact Information:
-
-[<img align="left" alt="javgonmor16 | Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/gmail.svg" />][Email] `jgonmor16@gmail.com`
-
-[<img align="left" alt="javgonmor16 | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.24.0/icons/linkedin.svg" />][LinkedIn] [LinkedIn]
+<p align="justify">
+Industrial engineer with a background in FPGA/VHDL and embedded systems, with experience as a project/program manager in the space sector. Now working to transition to the software / embedded industry as a project manager — while also still coding and building side projects.
+</p>
 
 <br />
 
-#### Projects:
-- 🔭 I'm currently working on fault injection designs in VDHL.
-- 🥅 2022 goal: Collaborate on [nvim-treesitter] as manintainer to add a VHDL parser.
+### 🚀 Currently
+- 🛰️ Background in FPGA/VHDL architecture (incl. Star Tracker algorithms) and embedded software.
+- 🔭 Building a [frame extractor](https://github.com/jgonmor16/frame-extractor) for video files.
+- 🧰 Developing a personal app to track job applications.
+- 🌱 Thinking about new ideas and projects to build. 
 
 <br />
 
-#### Languages and Tools:
-<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+### 📫 Get in touch
+[![Gmail](https://img.shields.io/badge/-jgonmor16%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jgonmor16@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Javier_Gonzalez-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/jgonzalezmoreno)
 
 <br />
+
+### 🛠️ Languages & Tools
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
 <br />
 
-[Email]: mailto:jgonmor16@gmail.com
-[LinkedIn]: https://linkedin.com/in/jgonmor16
-[nvim-treesitter]: https://github.com/nvim-treesitter/nvim-treesitter
+### 📊 GitHub Stats
 
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=jgonmor16&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs" alt="Javier's GitHub stats" />
 
+<img height="165" src="https://streak-stats.demolab.com?user=jgonmor16&hide_border=true" alt="Javier's GitHub streak" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgonmor16&layout=compact&hide_border=true" alt="Top languages" />
