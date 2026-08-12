@@ -41,7 +41,7 @@ Industrial engineer with a background in FPGA/VHDL and embedded systems, with ex
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=jgonmor16&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs" alt="Javier's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=jgonmor16&show_icons=true&hide_border=true&count_private=true" alt="Javier's GitHub stats" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=jgonmor16&hide_border=true" alt="Javier's GitHub streak" />
 
