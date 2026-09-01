@@ -12,9 +12,11 @@ still coding and building side projects.
 
 ### 🚀 Currently
 - 🛰️ Background in FPGA/VHDL architecture (incl. Star Tracker algorithms) and embedded software.
-- 🔭 Building a [frame extractor](https://github.com/jgonmor16/frame-extractor) for video files.
-- 🧰 Developing a personal app to track job applications.
-- 🌱 Thinking about new ideas and projects to build. 
+- 🎮 Building a game engine in C/C++ — rendering, entity-component system (ECS) and physics.
+- 💾 Developing a backup management desktop app in Rust + Tauri.
+- 🔭 Maintaining [frame-extractor](https://github.com/jgonmor16/frame-extractor), a Python tool with CI running tests, linting and build on every commit.
+- 🧩 Contributing HDL tooling to the Neovim ecosystem — VHDL indent support and LSP project-root fixes.
+- 🌱 Two more ideas in the pipeline.
 
 <br />
 
@@ -29,9 +31,9 @@ still coding and building side projects.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
@@ -48,4 +50,4 @@ still coding and building side projects.
   <a href="https://git.io/streak-stats"><img height="165" src="./profile/streak.svg" alt="Javier's GitHub streak" /></a>
 </p>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgonmor16&layout=compact&hide_border=true" alt="Top languages" />
+<img src="./profile/languages.svg" alt="Top languages" />
