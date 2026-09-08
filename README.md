@@ -4,8 +4,8 @@
 <p align="justify">
 Industrial engineer with a background in FPGA/VHDL and embedded systems, with
 experience as a project/program manager in the space sector. Now working to
-transition to the software / embedded industry as a project manager — while also
-still coding and building side projects.
+transition to the software / embedded industry as an individual contributor
+or as a project manager — while also still coding and building side projects.
 </p>
 
 <br />
@@ -46,7 +46,7 @@ still coding and building side projects.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jgonmor16&show_icons=true&hide_border=true&count_private=true" alt="Javier's GitHub stats" />
+  <img height="165" src="./profile/stats.svg" alt="Javier's GitHub stats" />
   <a href="https://git.io/streak-stats"><img height="165" src="./profile/streak.svg" alt="Javier's GitHub streak" /></a>
 </p>
 
