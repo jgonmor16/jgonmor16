@@ -10,13 +10,20 @@ or as a project manager — while also still coding and building side projects.
 
 <br />
 
-### 🚀 Currently
-- 🛰️ Background in FPGA/VHDL architecture (incl. Star Tracker algorithms) and embedded software.
-- 🎮 Building a game engine in C/C++ — rendering, entity-component system (ECS) and physics.
-- 💾 Developing a backup management desktop app in Rust + Tauri.
-- 🔭 Maintaining [frame-extractor](https://github.com/jgonmor16/frame-extractor), a Python tool with CI running tests, linting and build on every commit.
-- 🧩 Contributing HDL tooling to the Neovim ecosystem — VHDL indent support and LSP project-root fixes.
-- 🌱 Two more ideas in the pipeline.
+### 🚀 Projects
+<p align="left">
+  <a href="https://github.com/jgonmor16/hdlsnip.nvim"><img src="./profile/card-hdlsnip.svg" alt="hdlsnip.nvim" width="400" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jgonmor16/frame-extractor"><img src="./profile/card-frame-extractor.svg" alt="frame-extractor" width="400" /></a>
+</p>
+
+<br />
+
+<p align="left">
+  <img src="./profile/card-game-engine.svg" alt="Game Engine" width="400" />
+  &nbsp;&nbsp;
+  <img src="./profile/card-backup-manager.svg" alt="Backup Manager" width="400" />
+</p>
 
 <br />
 
